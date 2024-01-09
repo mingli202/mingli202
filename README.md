@@ -1,4 +1,4 @@
-A science kid trying to do something with his life.
+It's the ming.
 
 <!---
 Nanoscience202/Nanoscience202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
