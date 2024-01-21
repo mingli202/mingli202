@@ -1,4 +1,4 @@
-It's the ming.
+Ming Li
 
 <!---
 Nanoscience202/Nanoscience202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
