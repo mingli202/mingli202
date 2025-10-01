@@ -1,5 +1,7 @@
 # Hey!
 
+[portfolio](https://mingliliu.com)
+
 I'm Ming Li, a second year university student at McGill University studying for a Bachelor of Engineering in Software Engineering Co-op. I am an avid learner and like to challenge myself by solving complex problems. I enjoy building things for the sake of the people and personal fulfillment. All my projects are open source as I aspire to one day have the skills to contribute to the open source community. My most notable projects are: [Dream Schedule Maker](https://github.com/mingli202/next-schedule-maker), a schedule builder and visualizer for John Abbott College students because the school didn't have one and many studends (including me) found it tedious to manually plan out our class schedules; [Typing Rust](https://github.com/mingli202/typing-rust), monkeytype but it's a cli tool written in Rust (btw).
 
 ## Languages
